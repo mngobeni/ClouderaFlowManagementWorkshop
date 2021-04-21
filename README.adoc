@@ -28,7 +28,7 @@ You instructor will give access to a registration link where you can request a c
 [%autowidth,options="header"]
 |===
 |Service|URL|Credentials
-|Cloudera Manager|http://<public_dns>:7180/|`admin/admin`
+|Cloudera Manager|http://<public_dns>:7180/|`admin/supersecret1`
 |NiFi|http://<public_dns>:8080/nifi/|
 |NiFi Registry|http://<public_dns>:18080/nifi-registry/|
 |Schema Registry|http://<public_dns>:7788/|
